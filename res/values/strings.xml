@@ -45,7 +45,7 @@
 
     <!-- Category headings in left-pane header menu --> <skip />
     <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
-    <string name="header_category_wireless_networks">Wireless &amp; networks</string>
+    <string name="header_category_wireless_networks">Wireless &amp; Networks</string>
     <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
     <string name="header_category_connections">Connections</string>
     <!-- Settings main menu category heading. Device (Sound, display, battery, applications...). [CHAR LIMIT=40] -->
@@ -55,7 +55,7 @@
     <!-- Settings main menu category heading. Personal (Accounts, security, language, backup...). [CHAR LIMIT=40] -->
     <string name="header_category_access">Access</string>
     <!-- Settings main menu category heading. System (Updates, data, accessibility, about phone). [CHAR LIMIT=40] -->
-    <string name="header_category_system">System</string>
+    <string name="header_category_system">System Settings</string>
 
     <!-- Data Connection Enable. Only shown in diagnostic screen, so precise translation is not needed. -->
     <string name="radio_info_data_connection_enable">Enable Data Connection</string>
